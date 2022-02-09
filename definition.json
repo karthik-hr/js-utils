@@ -1,5 +1,4 @@
 {
-  "status": "Success",
   "data": [
     {
       "id": "dfe1dd6a-483d-11ec-b0c4-ef40e0eae9fc",
@@ -164,8 +163,7 @@
       "sortindex": 18,
       "isrequired": false,
       "widgettype": "Link",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "c434ed96-483d-11ec-b0c4-ffc51b051d7d",
@@ -253,8 +251,7 @@
       "sortindex": 13,
       "isrequired": false,
       "widgettype": "Text",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "bfed9de6-483d-11ec-b0c4-3be1aad38156",
@@ -611,8 +608,7 @@
       "sortindex": 28,
       "isrequired": false,
       "widgettype": "Text",
-      "issearchable": false,
-      "x-component-props": {}
+      "issearchable": false
     },
     {
       "id": "885f338a-483d-11ec-b0c4-9fe3c8fbf1a8",
@@ -633,8 +629,7 @@
       "sortindex": 8,
       "isrequired": false,
       "widgettype": "Number",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "b9269f08-483d-11ec-b0c4-a7567a9923ed",
@@ -834,8 +829,7 @@
       "sortindex": 2,
       "isrequired": false,
       "widgettype": "Text",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "7f172520-483e-11ec-b0c4-8b4f7baed5e4",
@@ -1066,8 +1060,7 @@
       "sortindex": 14,
       "isrequired": false,
       "widgettype": "Date",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "108e6b0e-483e-11ec-b0c4-2b16234b8367",
@@ -1088,8 +1081,7 @@
       "sortindex": 15,
       "isrequired": false,
       "widgettype": "Address",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "16c7fe2c-483e-11ec-b0c4-3fabc19fe64c",
@@ -1110,8 +1102,7 @@
       "sortindex": 4,
       "isrequired": true,
       "widgettype": "Number",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "ac161796-79f0-11ec-b008-13eae68d1c45",
@@ -1148,8 +1139,7 @@
       "sortindex": 7,
       "isrequired": false,
       "widgettype": "Currency",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "116902b4-483e-11ec-b0c4-a700320f7c8d",
@@ -1170,8 +1160,7 @@
       "sortindex": 6,
       "isrequired": false,
       "widgettype": "Currency",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "0eca15a2-483e-11ec-b0c4-933b34dd7808",
@@ -1192,8 +1181,7 @@
       "sortindex": 11,
       "isrequired": true,
       "widgettype": "RichText",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "1afdf528-483e-11ec-b0c4-b75224223f39",
@@ -1214,8 +1202,7 @@
       "sortindex": 10,
       "isrequired": false,
       "widgettype": "Checkbox",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "8f836fc8-483d-11ec-b0c4-33747ead137a",
@@ -1236,8 +1223,7 @@
       "sortindex": 2,
       "isrequired": false,
       "widgettype": "Link",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "7644a4aa-483d-11ec-b0c4-bf3115442ac0",
@@ -1389,8 +1375,7 @@
       "sortindex": 18,
       "isrequired": false,
       "widgettype": "Text",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "1cc34200-483e-11ec-b0c4-bbbe30369e61",
@@ -1411,8 +1396,7 @@
       "sortindex": 17,
       "isrequired": false,
       "widgettype": "Text",
-      "issearchable": false,
-      "x-component-props": {}
+      "issearchable": false
     },
     {
       "id": "0fa3f97a-483e-11ec-b0c4-638f62c930bf",
@@ -1433,8 +1417,7 @@
       "sortindex": 0,
       "isrequired": true,
       "widgettype": "SelfLink",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "1e49c5cc-483e-11ec-b0c4-bfe2aed95c12",
@@ -1455,8 +1438,7 @@
       "sortindex": 1,
       "isrequired": false,
       "widgettype": "Checkbox",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "1d808d60-483e-11ec-b0c4-1fd0f382cd5a",
@@ -1477,8 +1459,7 @@
       "sortindex": 16,
       "isrequired": false,
       "widgettype": "Tags",
-      "issearchable": false,
-      "x-component-props": {}
+      "issearchable": false
     },
     {
       "id": "188cff3c-483e-11ec-b0c4-f32013888bc8",
@@ -1499,8 +1480,7 @@
       "sortindex": 2,
       "isrequired": false,
       "widgettype": "Select",
-      "issearchable": true,
-      "x-component-props": { "allowClear": true }
+      "issearchable": true
     },
     {
       "id": "1502d346-483e-11ec-b0c4-2b09034c49b5",
@@ -1521,8 +1501,7 @@
       "sortindex": 13,
       "isrequired": false,
       "widgettype": "Date",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "b465dd4e-483d-11ec-b0c4-fbbb999443af",
@@ -1543,8 +1522,7 @@
       "sortindex": 7,
       "isrequired": false,
       "widgettype": "Text",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "287de438-483e-11ec-b0c4-1faa8e926320",
@@ -1661,8 +1639,7 @@
       "sortindex": 12,
       "isrequired": false,
       "widgettype": "Date",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "0ddeb288-483e-11ec-b0c4-67daac032b27",
@@ -1683,12 +1660,7 @@
       "sortindex": 19,
       "isrequired": true,
       "widgettype": "Select",
-      "issearchable": false,
-      "x-component-props": {
-        "allowClear": true,
-        "showSearch": true,
-        "optionFilterProp": "label"
-      }
+      "issearchable": false
     },
     {
       "id": "37c493ce-483e-11ec-b0c4-33ef20e5b819",
@@ -1709,8 +1681,7 @@
       "sortindex": 3,
       "isrequired": false,
       "widgettype": "Number",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "f4f79bd6-483d-11ec-b0c4-139359a8cb90",
@@ -1827,8 +1798,7 @@
       "sortindex": 16,
       "isrequired": false,
       "widgettype": "Tags",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "a59aed76-483e-11ec-b0c4-b7b0faf54d85",
@@ -1945,8 +1915,7 @@
       "sortindex": 2,
       "isrequired": false,
       "widgettype": "Text",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "fae2351a-483d-11ec-b0c4-3faf149c0676",
@@ -2159,8 +2128,7 @@
       "sortindex": 17,
       "isrequired": false,
       "widgettype": "Phone",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "be283322-483d-11ec-b0c4-9f9590757ce8",
@@ -2327,8 +2295,7 @@
       "sortindex": 6,
       "isrequired": false,
       "widgettype": "Text",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "970a9960-483d-11ec-b0c4-3fd2e1eb496b",
@@ -2413,8 +2380,7 @@
       "sortindex": 6,
       "isrequired": false,
       "widgettype": "Select",
-      "issearchable": true,
-      "x-component-props": { "allowClear": true }
+      "issearchable": true
     },
     {
       "id": "02c8c3c0-483e-11ec-b0c4-33bec3bf8cbb",
@@ -2739,8 +2705,7 @@
       "sortindex": 9,
       "isrequired": false,
       "widgettype": "RichText",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "4c8fab86-483e-11ec-b0c4-af865cb951ce",
@@ -2761,8 +2726,7 @@
       "sortindex": 12,
       "isrequired": false,
       "widgettype": "Text",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "2ea771c2-7a1f-11ec-b055-1760486ffeb9",
@@ -2799,8 +2763,7 @@
       "sortindex": 10,
       "isrequired": false,
       "widgettype": "Tags",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "3e745f42-483e-11ec-b0c4-6728c8d49573",
@@ -2851,8 +2814,7 @@
       "sortindex": 4,
       "isrequired": false,
       "widgettype": "Text",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "9f561518-483d-11ec-b0c4-cf71ac1bfa53",
@@ -2873,8 +2835,7 @@
       "sortindex": 0,
       "isrequired": false,
       "widgettype": "Upload",
-      "issearchable": false,
-      "x-component-props": { "accept": ".jpg , .png, .jpeg, .svg'" }
+      "issearchable": false
     },
     {
       "id": "475094a4-7daf-11ec-8b19-b3a2890fdce8",
@@ -2912,8 +2873,7 @@
       "sortindex": 11,
       "isrequired": false,
       "widgettype": "Text",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "af33ccdc-483d-11ec-b0c4-3fccca21b684",
@@ -2934,8 +2894,7 @@
       "sortindex": 18,
       "isrequired": false,
       "widgettype": "Phone",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "a9b7b12e-483d-11ec-b0c4-d7cba5f02fc1",
@@ -2956,8 +2915,7 @@
       "sortindex": 12,
       "isrequired": false,
       "widgettype": "Text",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "ac2b71c0-483d-11ec-b0c4-e3f8ac6543fe",
@@ -2978,8 +2936,7 @@
       "sortindex": 6,
       "isrequired": false,
       "widgettype": "Text",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "ad2c7582-483e-11ec-b0c4-6f4636b31d20",
@@ -3032,8 +2989,7 @@
       "sortindex": 18,
       "isrequired": false,
       "widgettype": "Checkbox",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "d616f0f4-483d-11ec-b0c4-0f1e44e994f9",
@@ -3054,8 +3010,7 @@
       "sortindex": 22,
       "isrequired": false,
       "widgettype": "Checkbox",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "a39b3e14-483d-11ec-b0c4-bbb0727b2164",
@@ -3076,8 +3031,7 @@
       "sortindex": 24,
       "isrequired": false,
       "widgettype": "Checkbox",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "ac43a9ce-483e-11ec-b0c4-7f0783092322",
@@ -3114,8 +3068,7 @@
       "sortindex": 15,
       "isrequired": false,
       "widgettype": "Address",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "3a2eb554-483e-11ec-b0c4-eb5cf601eba2",
@@ -3136,8 +3089,7 @@
       "sortindex": 4,
       "isrequired": false,
       "widgettype": "Percent",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "2ffd269c-483e-11ec-b0c4-5f812644fcaa",
@@ -3158,8 +3110,7 @@
       "sortindex": 1,
       "isrequired": false,
       "widgettype": "Select",
-      "issearchable": true,
-      "x-component-props": { "allowClear": true }
+      "issearchable": true
     },
     {
       "id": "8504ac2e-483d-11ec-b0c4-2b26b2321d77",
@@ -3180,8 +3131,7 @@
       "sortindex": 17,
       "isrequired": false,
       "widgettype": "Link",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "77e780d4-483d-11ec-b0c4-df47a9e7d0ac",
@@ -3202,8 +3152,7 @@
       "sortindex": 7,
       "isrequired": false,
       "widgettype": "Select",
-      "issearchable": true,
-      "x-component-props": { "allowClear": true }
+      "issearchable": true
     },
     {
       "id": "791213ac-483d-11ec-b0c4-7f248ee08ff0",
@@ -3224,8 +3173,7 @@
       "sortindex": 18,
       "isrequired": false,
       "widgettype": "Address",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "80be930a-483d-11ec-b0c4-1f64cd90d847",
@@ -3246,8 +3194,7 @@
       "sortindex": 22,
       "isrequired": false,
       "widgettype": "Checkbox",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "7e2e0954-483d-11ec-b0c4-039c594f175f",
@@ -3268,8 +3215,7 @@
       "sortindex": 21,
       "isrequired": false,
       "widgettype": "Checkbox",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "6dc1afb6-483e-11ec-b0c4-ff9b1323febb",
@@ -3354,8 +3300,7 @@
       "sortindex": 22,
       "isrequired": false,
       "widgettype": "Address",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "30d7d666-483e-11ec-b0c4-2ffc16ff7896",
@@ -3376,8 +3321,7 @@
       "sortindex": 5,
       "isrequired": false,
       "widgettype": "Currency",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "74eac8b0-7a87-11ec-98b1-33a956b552fb",
@@ -3499,8 +3443,7 @@
       "sortindex": 1,
       "isrequired": true,
       "widgettype": "SelfLink",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "8ea8cc56-483d-11ec-b0c4-c3979a1f3fb4",
@@ -3521,8 +3464,7 @@
       "sortindex": 3,
       "isrequired": false,
       "widgettype": "Select",
-      "issearchable": true,
-      "x-component-props": { "allowClear": true }
+      "issearchable": true
     },
     {
       "id": "8a14ccf8-483d-11ec-b0c4-83ccf3539ad1",
@@ -3543,8 +3485,7 @@
       "sortindex": 13,
       "isrequired": false,
       "widgettype": "Phone",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "15ed4ce6-483e-11ec-b0c4-8fcd0c07f36b",
@@ -3565,8 +3506,7 @@
       "sortindex": 5,
       "isrequired": false,
       "widgettype": "Select",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "72b33dfa-483e-11ec-b0c4-a731b9d1b8ba",
@@ -3635,8 +3575,7 @@
       "sortindex": 0,
       "isrequired": false,
       "widgettype": "SelfLink",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "a0fb6a80-483d-11ec-b0c4-139cebf63066",
@@ -3657,8 +3596,7 @@
       "sortindex": 10,
       "isrequired": false,
       "widgettype": "Date",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "ab7ac94c-483d-11ec-b0c4-d7191b28e400",
@@ -3679,8 +3617,7 @@
       "sortindex": 3,
       "isrequired": false,
       "widgettype": "Text",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "8aefb70a-483d-11ec-b0c4-676d7405dcd7",
@@ -3701,8 +3638,7 @@
       "sortindex": 14,
       "isrequired": false,
       "widgettype": "Phone",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "ff35a2a0-483d-11ec-b0c4-8f8cd9bc3926",
@@ -3787,8 +3723,7 @@
       "sortindex": 23,
       "isrequired": false,
       "widgettype": "Checkbox",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "8198d664-483d-11ec-b0c4-0397b64f6c30",
@@ -3809,8 +3744,7 @@
       "sortindex": 15,
       "isrequired": false,
       "widgettype": "Email",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "7d455952-483d-11ec-b0c4-07a3c14b58ed",
@@ -3831,8 +3765,7 @@
       "sortindex": 10,
       "isrequired": false,
       "widgettype": "RichText",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "8429444a-483d-11ec-b0c4-8f51437dc4a1",
@@ -3853,8 +3786,7 @@
       "sortindex": 5,
       "isrequired": false,
       "widgettype": "Select",
-      "issearchable": true,
-      "x-component-props": { "allowClear": true }
+      "issearchable": true
     },
     {
       "id": "a64ace2c-483d-11ec-b0c4-732007f40777",
@@ -3875,8 +3807,7 @@
       "sortindex": 17,
       "isrequired": false,
       "widgettype": "Email",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "7c784c50-483d-11ec-b0c4-132507400cc3",
@@ -3897,8 +3828,7 @@
       "sortindex": 9,
       "isrequired": false,
       "widgettype": "Number",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "b53f0b96-483d-11ec-b0c4-8b4ef3640448",
@@ -3919,8 +3849,7 @@
       "sortindex": 27,
       "isrequired": false,
       "widgettype": "Tags",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "b679224e-483d-11ec-b0c4-ef2468403cf6",
@@ -3941,8 +3870,7 @@
       "sortindex": 21,
       "isrequired": false,
       "widgettype": "Text",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "2f144904-483e-11ec-b0c4-5335b9b963a7",
@@ -3963,8 +3891,7 @@
       "sortindex": 10,
       "isrequired": false,
       "widgettype": "RichText",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "3cc39e56-483e-11ec-b0c4-13f762c4ca91",
@@ -3985,8 +3912,7 @@
       "sortindex": 17,
       "isrequired": false,
       "widgettype": "Text",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "1967e516-483e-11ec-b0c4-9b47f740eeff",
@@ -4007,8 +3933,7 @@
       "sortindex": 9,
       "isrequired": true,
       "widgettype": "Number",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "4a3c030c-483e-11ec-b0c4-a75e05bca8fb",
@@ -4029,8 +3954,7 @@
       "sortindex": 0,
       "isrequired": false,
       "widgettype": "Select",
-      "issearchable": true,
-      "x-component-props": { "allowClear": true }
+      "issearchable": true
     },
     {
       "id": "32bc192e-483e-11ec-b0c4-c3f69f746f0a",
@@ -4051,8 +3975,7 @@
       "sortindex": 13,
       "isrequired": false,
       "widgettype": "Date",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "31d1f66e-483e-11ec-b0c4-fbd22654340d",
@@ -4073,8 +3996,7 @@
       "sortindex": 14,
       "isrequired": false,
       "widgettype": "Date",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "395588b0-483e-11ec-b0c4-1bd0b21d3c07",
@@ -4095,8 +4017,7 @@
       "sortindex": 6,
       "isrequired": false,
       "widgettype": "Currency",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "34a0bdee-483e-11ec-b0c4-4b1272c57969",
@@ -4117,8 +4038,7 @@
       "sortindex": 12,
       "isrequired": false,
       "widgettype": "Date",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "1a34d45e-483e-11ec-b0c4-ebfa9eddba08",
@@ -4139,8 +4059,7 @@
       "sortindex": 8,
       "isrequired": false,
       "widgettype": "Checkbox",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "f90e82e8-483d-11ec-b0c4-e7a579fe825d",
@@ -4241,8 +4160,7 @@
       "sortindex": 7,
       "isrequired": false,
       "widgettype": "Currency",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "8550ee30-483e-11ec-b0c4-438e4edb2157",
@@ -4562,8 +4480,7 @@
       "sortindex": 8,
       "isrequired": false,
       "widgettype": "Select",
-      "issearchable": true,
-      "x-component-props": { "allowClear": true }
+      "issearchable": true
     },
     {
       "id": "cf10377a-483d-11ec-b0c4-07137ba31445",
@@ -4584,8 +4501,7 @@
       "sortindex": 15,
       "isrequired": false,
       "widgettype": "Email",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "d53a4ab4-483d-11ec-b0c4-93e4b5a7efa8",
@@ -4606,8 +4522,7 @@
       "sortindex": 12,
       "isrequired": false,
       "widgettype": "Checkbox",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "d3b5a85a-483d-11ec-b0c4-2737516accef",
@@ -4628,8 +4543,7 @@
       "sortindex": 25,
       "isrequired": false,
       "widgettype": "Text",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "d882fbee-483d-11ec-b0c4-0fe2dc55103c",
@@ -4650,8 +4564,7 @@
       "sortindex": 11,
       "isrequired": false,
       "widgettype": "Date",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "79f6de96-483e-11ec-b0c4-db7f592feb57",
@@ -4800,8 +4713,7 @@
       "sortindex": 19,
       "isrequired": false,
       "widgettype": "Text",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "dc7dc6f2-483d-11ec-b0c4-e70e41839c03",
@@ -4822,8 +4734,7 @@
       "sortindex": 13,
       "isrequired": false,
       "widgettype": "RichText",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "de334d78-483d-11ec-b0c4-bfe67cb98492",
@@ -4844,8 +4755,7 @@
       "sortindex": 0,
       "isrequired": false,
       "widgettype": "Upload",
-      "issearchable": true,
-      "x-component-props": { "accept": ".jpg , .png, .jpeg, .svg'" }
+      "issearchable": true
     },
     {
       "id": "cffc7892-483d-11ec-b0c4-3ff206c44623",
@@ -4866,8 +4776,7 @@
       "sortindex": 16,
       "isrequired": false,
       "widgettype": "Phone",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "d2d94982-483d-11ec-b0c4-2fdb3d46c8bc",
@@ -4888,8 +4797,7 @@
       "sortindex": 21,
       "isrequired": false,
       "widgettype": "Address",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "97a0d1a4-483e-11ec-b0c4-2333bcc30a96",
@@ -5022,8 +4930,7 @@
       "sortindex": 25,
       "isrequired": false,
       "widgettype": "Checkbox",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "a8daccc8-483d-11ec-b0c4-e751f71d660d",
@@ -5044,8 +4951,7 @@
       "sortindex": 11,
       "isrequired": false,
       "widgettype": "Select",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "a1e58836-483d-11ec-b0c4-b70aa369750a",
@@ -5066,8 +4972,7 @@
       "sortindex": 15,
       "isrequired": false,
       "widgettype": "RichText",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "a4859be4-483d-11ec-b0c4-93abcaa234e4",
@@ -5088,8 +4993,7 @@
       "sortindex": 26,
       "isrequired": false,
       "widgettype": "Checkbox",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "a81d65d8-483e-11ec-b0c4-cb592b8045f5",
@@ -5126,8 +5030,7 @@
       "sortindex": 8,
       "isrequired": false,
       "widgettype": "Date",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "44bde83c-483e-11ec-b0c4-cb37786caf3c",
@@ -5148,8 +5051,7 @@
       "sortindex": 2,
       "isrequired": true,
       "widgettype": "Currency",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "0022fd98-483e-11ec-b0c4-ffa4186c7246",
@@ -5186,8 +5088,7 @@
       "sortindex": 1,
       "isrequired": true,
       "widgettype": "Currency",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "4970e6ae-483e-11ec-b0c4-f701b48c7391",
@@ -5208,8 +5109,7 @@
       "sortindex": 3,
       "isrequired": false,
       "widgettype": "Select",
-      "issearchable": true,
-      "x-component-props": { "allowClear": true }
+      "issearchable": true
     },
     {
       "id": "4b0e0af0-483e-11ec-b0c4-0f873fc9966e",
@@ -5230,8 +5130,7 @@
       "sortindex": 6,
       "isrequired": true,
       "widgettype": "Select",
-      "issearchable": true,
-      "x-component-props": { "allowClear": true }
+      "issearchable": true
     },
     {
       "id": "7ab32ade-483d-11ec-b0c4-2f57ef899d50",
@@ -5252,8 +5151,7 @@
       "sortindex": 0,
       "isrequired": false,
       "widgettype": "Upload",
-      "issearchable": false,
-      "x-component-props": { "accept": ".jpg , .png, .jpeg, .svg" }
+      "issearchable": false
     },
     {
       "id": "82837638-483d-11ec-b0c4-9fc541777ad8",
@@ -5274,8 +5172,7 @@
       "sortindex": 16,
       "isrequired": false,
       "widgettype": "Email",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "6e7f578c-483e-11ec-b0c4-d795266f9cf1",
@@ -5525,8 +5422,7 @@
       "sortindex": 11,
       "isrequired": false,
       "widgettype": "Text",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "ef4a7afa-483d-11ec-b0c4-475371049363",
@@ -5707,8 +5603,7 @@
       "sortindex": 14,
       "isrequired": false,
       "widgettype": "Email",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "a7f08500-483d-11ec-b0c4-879c99657e37",
@@ -5729,8 +5624,7 @@
       "sortindex": 1,
       "isrequired": false,
       "widgettype": "SelfLink",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "7ca63164-483e-11ec-b0c4-930e14c228f8",
@@ -5767,8 +5661,7 @@
       "sortindex": 23,
       "isrequired": false,
       "widgettype": "Checkbox",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "cae9c4ea-483d-11ec-b0c4-5b6aa09d95bc",
@@ -5789,8 +5682,7 @@
       "sortindex": 7,
       "isrequired": false,
       "widgettype": "Text",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "cc84769c-483d-11ec-b0c4-033e1f0b261b",
@@ -5811,8 +5703,7 @@
       "sortindex": 10,
       "isrequired": false,
       "widgettype": "Select",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "d7baeffa-483d-11ec-b0c4-83806cc07023",
@@ -5833,8 +5724,7 @@
       "sortindex": 24,
       "isrequired": false,
       "widgettype": "Checkbox",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "afe63200-483d-11ec-b0c4-cf60cb1bf71a",
@@ -5855,8 +5745,7 @@
       "sortindex": 19,
       "isrequired": false,
       "widgettype": "Phone",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "b2cdb920-483d-11ec-b0c4-5781277cc3e4",
@@ -5877,8 +5766,7 @@
       "sortindex": 8,
       "isrequired": false,
       "widgettype": "Select",
-      "issearchable": true,
-      "x-component-props": { "allowClear": true }
+      "issearchable": true
     },
     {
       "id": "ae7ee40c-483d-11ec-b0c4-7f30d609aea6",
@@ -5899,8 +5787,7 @@
       "sortindex": 29,
       "isrequired": false,
       "widgettype": "Checkbox",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "a7246cae-483d-11ec-b0c4-b33a4f38be31",
@@ -5921,8 +5808,7 @@
       "sortindex": 5,
       "isrequired": false,
       "widgettype": "Text",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "acf478fe-483d-11ec-b0c4-f3c70b8419fc",
@@ -5943,8 +5829,7 @@
       "sortindex": 20,
       "isrequired": false,
       "widgettype": "Link",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "aaa0b8e6-483e-11ec-b0c4-8f01a63b2afd",
@@ -5981,8 +5866,7 @@
       "sortindex": 1,
       "isrequired": false,
       "widgettype": "SelfLink",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "dbc56ec2-483d-11ec-b0c4-576cd0e15bc4",
@@ -6003,8 +5887,7 @@
       "sortindex": 26,
       "isrequired": false,
       "widgettype": "Text",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "9e6bceea-483d-11ec-b0c4-13616985c6de",
@@ -6025,8 +5908,7 @@
       "sortindex": 23,
       "isrequired": false,
       "widgettype": "Address",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "55f41216-483e-11ec-b0c4-5f165599da00",
@@ -6063,8 +5945,7 @@
       "sortindex": 2,
       "isrequired": false,
       "widgettype": "Select",
-      "issearchable": true,
-      "x-component-props": { "allowClear": true }
+      "issearchable": true
     },
     {
       "id": "36ecc624-483e-11ec-b0c4-d3eff6ee9012",
@@ -6085,8 +5966,7 @@
       "sortindex": 8,
       "isrequired": false,
       "widgettype": "Currency",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "8dbe7ad4-483d-11ec-b0c4-9f4756846230",
@@ -6107,8 +5987,7 @@
       "sortindex": 24,
       "isrequired": false,
       "widgettype": "Tags",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "79d89612-483d-11ec-b0c4-1ba488be3c31",
@@ -6129,8 +6008,7 @@
       "sortindex": 19,
       "isrequired": false,
       "widgettype": "Address",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "892a9d86-483d-11ec-b0c4-fb21c5c727d2",
@@ -6151,12 +6029,7 @@
       "sortindex": 11,
       "isrequired": false,
       "widgettype": "TypeAhead",
-      "issearchable": true,
-      "x-component-props": {
-        "allowClear": true,
-        "showSearch": true,
-        "optionFilterProp": "label"
-      }
+      "issearchable": true
     },
     {
       "id": "7ff30046-483d-11ec-b0c4-8fae20c419fd",
@@ -6177,8 +6050,7 @@
       "sortindex": 20,
       "isrequired": false,
       "widgettype": "Checkbox",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "8cb4e2a4-483d-11ec-b0c4-337070c43107",
@@ -6199,8 +6071,7 @@
       "sortindex": 12,
       "isrequired": true,
       "widgettype": "Select",
-      "issearchable": true,
-      "x-component-props": { "allowClear": true }
+      "issearchable": true
     },
     {
       "id": "8bc6ecac-483d-11ec-b0c4-d35a91734edf",
@@ -6221,8 +6092,7 @@
       "sortindex": 4,
       "isrequired": false,
       "widgettype": "Currency",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "6f440578-483e-11ec-b0c4-e3b3807ee488",
@@ -6280,8 +6150,7 @@
       "sortindex": 7,
       "isrequired": false,
       "widgettype": "Date",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "354e9aae-483e-11ec-b0c4-13226d13cdc7",
@@ -6302,8 +6171,7 @@
       "sortindex": 9,
       "isrequired": false,
       "widgettype": "Number",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "fbbde286-483d-11ec-b0c4-df7d2c737738",
@@ -6468,8 +6336,7 @@
       "sortindex": 27,
       "isrequired": false,
       "widgettype": "Checkbox",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "d4741470-483d-11ec-b0c4-d7429e9fbbe3",
@@ -6490,8 +6357,7 @@
       "sortindex": 9,
       "isrequired": false,
       "widgettype": "Date",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "cbc65b08-483d-11ec-b0c4-9badcedab9a6",
@@ -6512,8 +6378,7 @@
       "sortindex": 3,
       "isrequired": false,
       "widgettype": "Text",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "c878df98-483d-11ec-b0c4-2f7283fb7319",
@@ -6534,8 +6399,7 @@
       "sortindex": 5,
       "isrequired": false,
       "widgettype": "Text",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "d20e592a-483d-11ec-b0c4-b7e7a7084a7f",
@@ -6556,8 +6420,7 @@
       "sortindex": 20,
       "isrequired": false,
       "widgettype": "Address",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "a560351a-483d-11ec-b0c4-bf87c27e96e7",
@@ -6578,8 +6441,7 @@
       "sortindex": 16,
       "isrequired": false,
       "widgettype": "Email",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "f342072c-483d-11ec-b0c4-6715cf169b86",
@@ -6616,12 +6478,7 @@
       "sortindex": 19,
       "isrequired": true,
       "widgettype": "Select",
-      "issearchable": true,
-      "x-component-props": {
-        "allowClear": true,
-        "showSearch": true,
-        "optionFilterProp": "label"
-      }
+      "issearchable": true
     },
     {
       "id": "48a5d5cc-483e-11ec-b0c4-bbf3c8b34d3e",
@@ -6642,8 +6499,7 @@
       "sortindex": 4,
       "isrequired": false,
       "widgettype": "Select",
-      "issearchable": true,
-      "x-component-props": { "allowClear": true }
+      "issearchable": true
     },
     {
       "id": "4bca0a8e-483e-11ec-b0c4-03c4f89fbcbd",
@@ -6664,8 +6520,7 @@
       "sortindex": 5,
       "isrequired": false,
       "widgettype": "Number",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "8272df84-483e-11ec-b0c4-9fdb47ba23f9",
@@ -6707,8 +6562,7 @@
       "sortindex": 3,
       "isrequired": false,
       "widgettype": "Select",
-      "issearchable": true,
-      "x-component-props": { "allowClear": true }
+      "issearchable": true
     },
     {
       "id": "b08d8384-483d-11ec-b0c4-371ad86a65dc",
@@ -6729,8 +6583,7 @@
       "sortindex": 4,
       "isrequired": false,
       "widgettype": "Text",
-      "issearchable": true,
-      "x-component-props": {}
+      "issearchable": true
     },
     {
       "id": "b3a8aeb8-483d-11ec-b0c4-b7fd98280cf9",
@@ -6751,8 +6604,7 @@
       "sortindex": 9,
       "isrequired": false,
       "widgettype": "Select",
-      "issearchable": true,
-      "x-component-props": { "allowClear": true }
+      "issearchable": true
     },
     {
       "id": "b2135300-483d-11ec-b0c4-2f2b8795f325",
@@ -6773,8 +6625,7 @@
       "sortindex": 14,
       "isrequired": false,
       "widgettype": "Select",
-      "issearchable": true,
-      "x-component-props": { "mode": "multiple", "optionFilterProp": "label" }
+      "issearchable": true
     }
   ]
 }
